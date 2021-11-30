@@ -7,9 +7,12 @@ The objective of the analysis was to transform the raw Pyber ride share data int
 When reviewing the ride share data analysis, we can see that there are differences between urban, suburban and rural city types.  The summary of the below information can be found in this table: https://github.com/julianadvds/pyber_analysis/blob/main/analysis/Pyber%20Ride%20Share%20Summary%20by%20City%20Type.PNG
 
 ### Total Rides
-•Overall, rural has the smallest number of rides at 125, suburban second at 625 total rides and urban the most at 1,625 total ridse
+•Overall, rural has the smallest number of rides at 125, suburban second at 625 total rides and urban the most at 1,625 total rides.
+
 •Urban cities have 2.6 times the number of total rides than suburban cities
+
 •Urban cities have 13 times more rides than rural cities
+
 •Suburban cities have 5 times more rides than rural cities
 
 
@@ -17,14 +20,18 @@ When reviewing the ride share data analysis, we can see that there are differenc
 •Similar to total rides, rural has the fewest drivers at 78, suburban second with 490 drivers and urban has the most drivers at 2,405
 
 •Urban cities have about 5 times more drivers than suburban cities
+
 •Urban cities have about 31 times more drivers than rural cities
+
 •Suburban cities have about 6 times more drivers than rural cities
 
 ### Total Fares
 •Similar to total rides and drivers, rural has the smallest total fare amount at $4,327.93, suburban second with $19,356.33, and urban has the largest total fare at $39,854.38
 
 •Urban cities have about 2 times the total fare than suburban cities
+
 •Urban cities have about 9 times the total fare than rural cities
+
 •Suburban cities have about 4 times the total fare than rural cities
 
 ### Average Fare per Rider
